@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HITUNG VOLUME BALOK</string>
+    <string name="panjang">Panjang</string>
+    <string name="lebar">Lebar</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="hitung">hitung</string>
+    <string name="hasil">0.0</string>
+    <string name="nama">Rika Nurhaliza</string>
+    <string name="nim">SI15180002</string>
+</resources>
